@@ -1,5 +1,5 @@
 # Flex Core
-![](./flex-mock-logo.png)
+![](./assets/neutral-logo.png)
 
 Mono Repo for all things related to my project "Flex". Flex is a workout app that is all about flexibility. Whether you not have a lot of free time and just want something to come up with a simple, easy to follow, workout plan for you or you are an exercise enthusiast who wants the ability to define your own workout experience, flex is for you!
 
